@@ -23,6 +23,7 @@ Crée un environnement virtuel et installe les dépendances :
 
 ```bash
 python -m venv kaggle-calories
+
 .\kaggle-calories\Scripts\activate  # Sur Windows
 # source kaggle-calories/bin/activate  # Sur Linux/macOS
 
