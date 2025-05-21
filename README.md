@@ -15,7 +15,7 @@ Le modèle utilisé est un **XGBRegressor** dont les hyperparamètres ont été 
 
 Le score obtenu sur le jeu de test est :  
 
-**Score RMSLE : 0.06052**
+**Score RMSLE : 0.06052** sur la soumission 
 
 ## ⚙️ Installation
 
